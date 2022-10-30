@@ -66,7 +66,7 @@ Após clonar o projeto, instale o cli do expo com o seguinte código
 
 Intale todas as dependências do projeto com 
 
-`npm i`
+`npm install`
 
 Verique se suas váriaveis de ambiente estão setadas de maneira corretas, segue um exemplo.
 
@@ -100,7 +100,7 @@ Depois disso basta abrir o seu emulador de android e rodar o seguinte código na
 ### Contributors
 
  - [Vinicius Oliveira](https://github.com/vini-sousa) <br/>
--  [David](https://github.com/6bat66)
+ - [David](https://github.com/6bat66)
 
 
 Made with 💜 by Lucas Ryan
